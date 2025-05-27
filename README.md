@@ -1,1 +1,1 @@
-# Reakcijski_cas
+NALOGA Reakcijska igra: S tipko 1 zaženeš "igro". Nato se na semaforju prižge najprej RDEČA led (naključno časa), nato se prižge RUMENA led, ki nakazuje, da se igralec pripravi. Na zaslonu se tudi zapiše "Pripravi se...". Nato naključno se prižge ZELENA led, igralec pa mora čimprej pritisniti na tipko 2. Na zaslonu se potem izpiše izmerjeni čas v milisekundah. Igro lahko ponovno zaženemo s prvo tipko.
