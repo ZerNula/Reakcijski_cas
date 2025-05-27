@@ -2,3 +2,6 @@ NALOGA Reakcijska igra: S tipko 1 zaženeš "igro". Nato se na semaforju prižge
 
 KOSOVNICA:
 ![image](https://github.com/user-attachments/assets/412816b2-284e-433f-a288-d2a6f3e13470)
+
+KOMENTAR:
+Nalogo sem si izmislil sam, saj sem spregledal zgorno nastete projekte... Naloga je bila zanimiva in sem se z nje kar precej naučil. 
